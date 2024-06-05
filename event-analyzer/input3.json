@@ -1,0 +1,240 @@
+{
+    "AffiliateName": "Kobo",
+    "ApplicationVersion": "4.38.21908",
+    "Events": [
+        {
+            "Attributes": {
+                "origin": "More",
+                "viewType": "Wishlist"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Wishlist",
+            "Id": "2645ca1c-9d34-4b4d-91ba-c8635dd17bb9",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:51:06Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Wishlist",
+                "viewType": "Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "6648fb34-8695-4c20-9409-fbee5f6ba3a2",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:51:11Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Home",
+                "viewType": "MyBooks"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "MyBooks",
+            "Id": "9f0c7a31-60f6-4e78-a581-3ef6aba06342",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:51:23Z"
+        },
+        {
+            "Attributes": {},
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "SearchOpened",
+            "Id": "4a7f093d-fc63-4301-9d50-b1cfdfcaf8ec",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:51:26Z"
+        },
+        {
+            "Attributes": {
+                "Action": "Search"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "StatusBarOption",
+            "Id": "e5aafed3-0305-4d89-b457-fb8b94f2fe25",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:51:27Z"
+        },
+        {
+            "Attributes": {
+                "Source": "Library"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Search",
+            "Id": "d69777a1-ad27-4605-9272-ed765b3bacd3",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:51:27Z"
+        },
+        {
+            "Attributes": {
+                "Source": "Store"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Search",
+            "Id": "18349a8e-d28f-4d9c-a874-8fd8718cf995",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:51:32Z"
+        },
+        {
+            "Attributes": {
+                "origin": "MyBooks",
+                "viewType": "Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "54f1ec53-a6a9-4fc7-a886-8429c0de5040",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:51:54Z"
+        },
+        {
+            "Attributes": {},
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "AppStart",
+            "Id": "341761b7-f688-450d-b5e5-ea5b65f23d28",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-25T19:34:57Z"
+        },
+        {
+            "Attributes": {},
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "AppStart",
+            "Id": "26a04227-24e5-41ef-852d-f381fab4f7e6",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-26T16:45:00Z"
+        },
+        {
+            "Attributes": {},
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "WifiSettings",
+            "Id": "22854dd1-9095-404d-b645-ec789de8e7c8",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-26T16:45:28Z"
+        },
+        {
+            "Attributes": {
+                "Action": "Wifi"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "StatusBarOption",
+            "Id": "2c2c41d0-80e9-4cd6-b4aa-6269202ae8a8",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-26T16:45:28Z"
+        },
+        {
+            "Attributes": {},
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "WifiSettings",
+            "Id": "da4d862b-08bd-445b-b77c-e85c6a3f23f8",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-26T16:45:44Z"
+        },
+        {
+            "Attributes": {
+                "Action": "Wifi"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "StatusBarOption",
+            "Id": "5dab9ab3-f2f2-44b2-b30e-48f406e0d889",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-26T16:45:44Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Home",
+                "viewType": "More"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "More",
+            "Id": "53df2026-4521-4458-a25b-96d8e8d22896",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-26T16:45:49Z"
+        },
+        {
+            "Attributes": {
+                "origin": "More",
+                "viewType": "Settings"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "AppSettings",
+            "Id": "3d03ce55-9652-448a-bb5d-ee5fe569c086",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-26T16:45:52Z"
+        },
+        {
+            "Attributes": {
+                "Context": "Non-FTE",
+                "Hotspot detected?": "No",
+                "Outcome": "Success",
+                "Signal strength": "100",
+                "Type": "WPA2"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "NewWifiNetwork",
+            "Id": "be15d7c1-99c3-4c6a-b9a6-28139f400d7d",
+            "Metrics": {
+                "Frequency": 2412
+            },
+            "TestGroups": {},
+            "Timestamp": "2023-11-26T16:46:27Z"
+        },
+        {
+            "Attributes": {
+                "AccountType": "Adult",
+                "Affiliate": "Kobo",
+                "CustomerType": "RMR",
+                "DeviceModel": "Kobo Clara HD",
+                "ExternalSDTotal": "0",
+                "ExternalSDUsed": "0",
+                "HasSubscription": "false",
+                "InternalTotal": "7014",
+                "InternalUsed": "83",
+                "KoboSuperPointsBalance": "0",
+                "KoboSuperPointsStatus": "",
+                "LastReadingFont": "default",
+                "OSVersion": "4.1.15",
+                "SDCardStatus": "No",
+                "StorageSize": "7014"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "UserMetadataUpdate",
+            "Id": "3a0ba2e0-c8b7-488d-881b-fc59ef0b2638",
+            "Metrics": {
+                "DownloadedLibrarySize": 6,
+                "LibrarySize": 6,
+                "NumberOfBorrowedBooks": 0,
+                "NumberOfDownloadedBorrowedBooks": 0,
+                "NumberOfDownloadedFreeBooks": 0,
+                "NumberOfDownloadedPaidBooks": 1,
+                "NumberOfDownloadedPreviews": 0,
+                "NumberOfDownloadedSubscribedBooks": 0,
+                "NumberOfFixedLayoutBooks": 0,
+                "NumberOfFreeBooks": 0,
+                "NumberOfItemsOnCurrentReads": 2,
+                "NumberOfPaidBooks": 1,
+                "NumberOfPreviews": 0,
+                "NumberOfReflowableBooks": 6,
+                "NumberOfShelves": 0,
+                "NumberOfSideloadedBooks": 5,
+                "NumberOfSubscribedBooks": 0
+            },
+            "TestGroups": {},
+            "Timestamp": "2023-11-26T16:46:29Z"
+        }
+    ],
+    "PlatformId": "00000000-0000-0000-0000-000000000376",
+    "SerialNumber": "N249880244973"
+}

@@ -1,0 +1,346 @@
+{
+    "AffiliateName": "Kobo",
+    "ApplicationVersion": "4.38.21908",
+    "Events": [
+        {
+            "Attributes": {
+                "action": "Tap"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "OpenReadingSettingsMenu",
+            "Id": "d38bbb0b-0b7c-4a1e-a930-0a1705d6515d",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:46:19Z"
+        },
+        {
+            "Attributes": {
+                "ContentFormat": "application/epub+zip",
+                "ContentType": "application/epub+zip",
+                "Monetization": "Sideloaded",
+                "Origin": "Sideloaded",
+                "ViewType": "",
+                "author": "George R. R. Martin",
+                "isbn": "978-0-553-89784-5",
+                "progress": "4",
+                "title": "A Game of Thrones"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "LeaveContent",
+            "Id": "3421ba4d-373d-4af7-9b9c-e7dd5061da1d",
+            "Metrics": {
+                "IdleTime": 13,
+                "PagesTurned": 2,
+                "SecondsRead": 40
+            },
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:46:20Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Home",
+                "viewType": "MyBooks"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "MyBooks",
+            "Id": "66abae96-c516-454a-b0af-005ce40de3ca",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:46:39Z"
+        },
+        {
+            "Attributes": {
+                "origin": "MyBooks",
+                "viewType": "Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "42add7b8-7162-4f7a-b739-08760b374613",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:46:48Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Home",
+                "viewType": "MyBooks"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "MyBooks",
+            "Id": "54b13cbc-7317-4eb8-a0ea-ba2cb34a505a",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:47:03Z"
+        },
+        {
+            "Attributes": {
+                "origin": "MyBooks",
+                "viewType": "Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "cdcf8a8c-17e4-4d3c-8384-98fd09832905",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:47:10Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Home",
+                "viewType": "More"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "More",
+            "Id": "7e89c5cd-6cb4-44cc-afc6-a498e6bac1de",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:47:14Z"
+        },
+        {
+            "Attributes": {
+                "origin": "More",
+                "viewType": "Settings"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "AppSettings",
+            "Id": "0505aa1f-96b2-490d-97b1-d42256f70d21",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:47:20Z"
+        },
+        {
+            "Attributes": {
+                "origin": "More",
+                "viewType": "Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "940404d4-ddca-4356-9c7b-33c7b08d73f6",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:47:30Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Home",
+                "viewType": "Store/Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "7ad040b1-f08f-469d-bc0d-5931056af8f4",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:48:08Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Browse",
+                "viewType": "Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "98cab8a2-17c9-4249-b2eb-3a507d93a6f0",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:49:46Z"
+        },
+        {
+            "Attributes": {
+                "Action": "Sync"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "StatusBarOption",
+            "Id": "1628ebfb-db0f-48af-a804-48ad20047da9",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:49:55Z"
+        },
+        {
+            "Attributes": {
+                "action": "CurrentRead"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "HomeWidgetClicked",
+            "Id": "4da0db9f-f0ba-4f14-88ed-487c4f249fde",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:50:14Z"
+        },
+        {
+            "Attributes": {
+                "ContentFormat": "application/epub+zip",
+                "ContentType": "application/epub+zip",
+                "Monetization": "Sideloaded",
+                "Origin": "Sideloaded",
+                "ViewType": "ReadingView",
+                "author": "George R. R. Martin",
+                "isbn": "978-0-553-89784-5",
+                "progress": "4",
+                "title": "A Game of Thrones"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "OpenContent",
+            "Id": "ecfa5e3a-7806-41bf-8e56-1ee7fef0927d",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:50:15Z"
+        },
+        {
+            "Attributes": {
+                "action": "Tap"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "OpenReadingSettingsMenu",
+            "Id": "fcd5946c-4636-4b4a-a442-7e3e8418d1d6",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:50:19Z"
+        },
+        {
+            "Attributes": {
+                "ContentFormat": "application/epub+zip",
+                "ContentType": "application/epub+zip",
+                "Monetization": "Sideloaded",
+                "Origin": "Sideloaded",
+                "ViewType": "",
+                "author": "George R. R. Martin",
+                "isbn": "978-0-553-89784-5",
+                "progress": "4",
+                "title": "A Game of Thrones"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "LeaveContent",
+            "Id": "31a40648-fec5-4007-8c54-cb8f8cf0d9cf",
+            "Metrics": {
+                "IdleTime": 5,
+                "PagesTurned": 0,
+                "SecondsRead": 5
+            },
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:50:20Z"
+        },
+        {
+            "Attributes": {
+                "action": "CurrentRead"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "HomeWidgetClicked",
+            "Id": "6e767a57-7592-4aa2-a8cf-6163487b3661",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:50:22Z"
+        },
+        {
+            "Attributes": {
+                "ContentFormat": "application/x-kobo-epub+zip",
+                "ContentType": "application/x-kobo-epub+zip",
+                "Monetization": "Paid",
+                "Origin": "Kobo Store",
+                "StartFile": "OEBPS/Text/Section0009.xhtml",
+                "StartSpan": "kobo.36.1",
+                "ViewType": "ReadingView",
+                "progress": "40",
+                "volumeid": "a4f64986-da66-4ae6-a8fa-09dd8b5ca0c3"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "OpenContent",
+            "Id": "03930b27-a67a-4ec6-8243-3523374d6c06",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:50:23Z"
+        },
+        {
+            "Attributes": {
+                "action": "Tap"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "OpenReadingSettingsMenu",
+            "Id": "f5f95772-4007-45a9-81e5-012c281de1f9",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:50:26Z"
+        },
+        {
+            "Attributes": {
+                "ContentFormat": "application/x-kobo-epub+zip",
+                "ContentType": "application/x-kobo-epub+zip",
+                "Monetization": "Paid",
+                "Origin": "Kobo Store",
+                "StartFile": "OEBPS/Text/Section0009.xhtml",
+                "StartSpan": "kobo.36.1",
+                "ViewType": "",
+                "progress": "40",
+                "volumeid": "a4f64986-da66-4ae6-a8fa-09dd8b5ca0c3"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "LeaveContent",
+            "Id": "a94986f5-7e99-4993-aa78-328cad3f543b",
+            "Metrics": {
+                "IdleTime": 4,
+                "PagesTurned": 0,
+                "SecondsRead": 4
+            },
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:50:27Z"
+        },
+        {
+            "Attributes": {
+                "action": "MyBooks"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "HomeWidgetClicked",
+            "Id": "3382de7e-2ab9-45f2-8933-4614015270eb",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:50:33Z"
+        },
+        {
+            "Attributes": {
+                "origin": "MyBooks",
+                "viewType": "Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "485daf36-17ce-4ea7-9775-1a4d6088bb24",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:50:38Z"
+        },
+        {
+            "Attributes": {
+                "Action": "Light"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "StatusBarOption",
+            "Id": "5358ea1f-31df-43ac-9255-8a81741a67c7",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:50:43Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Home",
+                "viewType": "More"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "More",
+            "Id": "9133aaeb-d5af-4ccb-9576-bf2b80fde84c",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:50:53Z"
+        },
+        {
+            "Attributes": {
+                "ViewType": "Books"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "AccessWishlist",
+            "Id": "1cc72756-53eb-446a-be14-6a50f66b6b63",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:51:05Z"
+        }
+    ],
+    "PlatformId": "00000000-0000-0000-0000-000000000376",
+    "SerialNumber": "N249880244973"
+}

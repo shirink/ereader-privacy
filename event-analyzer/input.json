@@ -1,0 +1,332 @@
+{
+    "AffiliateName": "Kobo",
+    "ApplicationVersion": "4.38.21908",
+    "Events": [
+        {
+            "Attributes": {
+                "origin": "MyBooks",
+                "viewType": "Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "15fca920-cd4d-4976-b64e-40c4919ad848",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:31:43Z"
+        },
+        {
+            "Attributes": {
+                "action": "CurrentRead"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "HomeWidgetClicked",
+            "Id": "3ebf63a7-da07-4659-adeb-fabce1a54853",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:32:04Z"
+        },
+        {
+            "Attributes": {
+                "ContentFormat": "application/x-kobo-epub+zip",
+                "ContentType": "application/x-kobo-epub+zip",
+                "Monetization": "Paid",
+                "Origin": "Kobo Store",
+                "StartFile": "OEBPS/Text/Section0009.xhtml",
+                "StartSpan": "kobo.21.1",
+                "ViewType": "ReadingView",
+                "progress": "34",
+                "volumeid": "a4f64986-da66-4ae6-a8fa-09dd8b5ca0c3"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "OpenContent",
+            "Id": "adaa658f-8e57-4202-8431-67ce4ca8409d",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:32:05Z"
+        },
+        {
+            "Attributes": {
+                "action": "Tap"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "OpenReadingSettingsMenu",
+            "Id": "2e82a408-6227-40ae-956c-b66a9f519d6f",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:32:07Z"
+        },
+        {
+            "Attributes": {
+                "action": "Tap"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "OpenReadingSettingsMenu",
+            "Id": "f5e44a4e-890a-46ab-8986-8624791d7d07",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:32:21Z"
+        },
+        {
+            "Attributes": {
+                "ContentFormat": "application/x-kobo-epub+zip",
+                "ContentType": "application/x-kobo-epub+zip",
+                "Monetization": "Paid",
+                "Origin": "Kobo Store",
+                "StartFile": "OEBPS/Text/Section0009.xhtml",
+                "StartSpan": "kobo.21.1",
+                "ViewType": "",
+                "progress": "34",
+                "volumeid": "a4f64986-da66-4ae6-a8fa-09dd8b5ca0c3"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "LeaveContent",
+            "Id": "2641aa37-e29d-40db-88ff-cc7736b23611",
+            "Metrics": {
+                "IdleTime": 18,
+                "PagesTurned": 0,
+                "SecondsRead": 18
+            },
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:32:23Z"
+        },
+        {
+            "Attributes": {
+                "action": "CurrentRead"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "HomeWidgetClicked",
+            "Id": "75a182f4-1870-42a2-80dc-dd16ff17182b",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:32:48Z"
+        },
+        {
+            "Attributes": {
+                "ContentFormat": "application/x-kobo-epub+zip",
+                "ContentType": "application/x-kobo-epub+zip",
+                "Monetization": "Paid",
+                "Origin": "Kobo Store",
+                "StartFile": "OEBPS/Text/Section0009.xhtml",
+                "StartSpan": "kobo.21.1",
+                "ViewType": "ReadingView",
+                "progress": "34",
+                "volumeid": "a4f64986-da66-4ae6-a8fa-09dd8b5ca0c3"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "OpenContent",
+            "Id": "481799f6-f70c-46b6-ae23-3b97fee3e43d",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:32:48Z"
+        },
+        {
+            "Attributes": {
+                "progress": "25",
+                "volumeid": "a4f64986-da66-4ae6-a8fa-09dd8b5ca0c3"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "BookProgress",
+            "Id": "dd2f5030-97a8-4bad-ab21-87dfc7190c22",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:33:02Z"
+        },
+        {
+            "Attributes": {
+                "action": "Tap"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "OpenReadingSettingsMenu",
+            "Id": "71e997e4-517b-4f54-8c22-2f9a47ada09e",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:34:51Z"
+        },
+        {
+            "Attributes": {
+                "ContentFormat": "application/x-kobo-epub+zip",
+                "ContentType": "application/x-kobo-epub+zip",
+                "Monetization": "Paid",
+                "Origin": "Kobo Store",
+                "StartFile": "OEBPS/Text/Section0009.xhtml",
+                "StartSpan": "kobo.36.1",
+                "ViewType": "",
+                "progress": "40",
+                "volumeid": "a4f64986-da66-4ae6-a8fa-09dd8b5ca0c3"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "LeaveContent",
+            "Id": "c2dfe6a5-a819-4072-aebc-df56bfb8301a",
+            "Metrics": {
+                "IdleTime": 5,
+                "PagesTurned": 3,
+                "SecondsRead": 124
+            },
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:34:52Z"
+        },
+        {
+            "Attributes": {},
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "SearchOpened",
+            "Id": "3e23c984-58d6-461c-806d-9ef0b0997885",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:34:56Z"
+        },
+        {
+            "Attributes": {
+                "Action": "Search"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "StatusBarOption",
+            "Id": "6ce46be6-cdb3-40da-aa65-f7bfcea5456c",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:34:57Z"
+        },
+        {
+            "Attributes": {
+                "Source": "Store"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Search",
+            "Id": "e6190639-7a24-425d-b346-a1748e01b80c",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:34:57Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Home",
+                "viewType": "More"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "More",
+            "Id": "4bd757f6-64a5-464c-b253-c27940c899c0",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:35:18Z"
+        },
+        {
+            "Attributes": {
+                "ViewType": "Books"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "AccessWishlist",
+            "Id": "33b26970-e2b8-438f-b45b-e1958f2d0aec",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:35:30Z"
+        },
+        {
+            "Attributes": {
+                "origin": "More",
+                "viewType": "Wishlist"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Wishlist",
+            "Id": "a01b7215-76a2-4e1b-8abe-90ca5cee7076",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:35:31Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Wishlist",
+                "viewType": "Store/Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "a8bb9847-5320-4108-b699-d40a1ec39521",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:35:44Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Browse",
+                "viewType": "MyBooks"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "MyBooks",
+            "Id": "06e8263c-a89f-4476-9a72-d7e4feb6cfda",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:35:59Z"
+        },
+        {
+            "Attributes": {
+                "origin": "MyBooks",
+                "viewType": "Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "aed3d5b9-f462-40f5-9bfb-0896d135665b",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:36:04Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Home",
+                "viewType": "More"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "More",
+            "Id": "68087596-e0aa-404f-958c-573d17a49d40",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:36:23Z"
+        },
+        {
+            "Attributes": {
+                "origin": "More",
+                "viewType": "Stats"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Stats",
+            "Id": "e0501e56-35b5-446d-9116-6efb2cc3a157",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:36:26Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Activity",
+                "viewType": "Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "0d372aa6-f032-4e53-9047-85c6d34d6070",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:36:39Z"
+        },
+        {
+            "Attributes": {
+                "origin": "Home",
+                "viewType": "Store/Home"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "Home",
+            "Id": "a5c4ed06-18ed-45f8-a4d8-563f56d1cda2",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:36:51Z"
+        },
+        {
+            "Attributes": {
+                "Origin": "Storefront"
+            },
+            "ClientApplicationVersion": "4.38.21908",
+            "EventType": "TasteProfilePromo",
+            "Id": "b7d60c2e-3466-454c-a58a-cfde37a8137a",
+            "Metrics": {},
+            "TestGroups": {},
+            "Timestamp": "2023-11-18T18:36:56Z"
+        }
+    ],
+    "PlatformId": "00000000-0000-0000-0000-000000000376",
+    "SerialNumber": "N249880244973"
+}
